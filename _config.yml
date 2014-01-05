@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
+url: http://icepress.minh.io
+title: Ice Press
 subtitle: A blogging framework for hackers.
-author: Your Name
+author: Minh Nguyen
 simple_search: http://google.com/search
 description:
 
